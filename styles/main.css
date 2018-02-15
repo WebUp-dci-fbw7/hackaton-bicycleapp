@@ -1,0 +1,13 @@
+@import url("normalize.css");
+
+/**
+  *BASE
+  */
+
+html {
+  font-size: 0.625em;
+}
+
+body, body * {
+  box-sizing: border-box;
+}
